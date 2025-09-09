@@ -1,5 +1,4 @@
 # E-Commerce-Analytics-Visualization
-# E-Commerce Sales Analysis
 
 This project analyzes e-commerce sales trends using Python (Jupyter Notebook) and Power BI.
 
